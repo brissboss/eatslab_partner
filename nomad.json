@@ -25,7 +25,7 @@
         },
         "Plats": {
             "divider-1": {
-                "name": "Pâtes"
+                "divider": "Pâtes"
             },
             "1": {
                 "name": "Salata Caprèse",
@@ -48,7 +48,7 @@
                 "price": 1390
             },
             "divider-2": {
-                "name": "Pizzas"
+                "divider": "Pizzas"
             },
             "5": {
                 "name": "Margherita",
