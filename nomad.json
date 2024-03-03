@@ -3,23 +3,82 @@
     "menu": {
         "Boissons": {
             "1": {
-                "name": "Coca-Cola",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 250
+                "divider": "Bières"
             },
             "2": {
-                "name": "Fanta",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 250
+                "name": "Bière pression",
+                "description": "25cl",
+                "price": 300
             },
             "3": {
-                "name": "Sprite",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 250
+                "name": "Bière pression",
+                "description": "50cl",
+                "price": 500
             },
             "4": {
-                "name": "Eau",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
+                "divider": "Vins"
+            },
+            "5": {
+                "name": "Vin rouge",
+                "description": "Verre",
+                "price": 300
+            },
+            "6": {
+                "name": "Vin rouge",
+                "description": "Bouteille",
+                "price": 1500
+            },
+            "7": {
+                "name": "Vin blanc",
+                "description": "Verre",
+                "price": 300
+            },
+            "8": {
+                "name": "Vin blanc",
+                "description": "Bouteille",
+                "price": 1500
+            },
+            "9": {
+                "name": "Vin rosé",
+                "description": "Verre",
+                "price": 300
+            },
+            "10": {
+                "name": "Vin rosé",
+                "description": "Bouteille",
+                "price": 1500
+            },
+            "11": {
+                "divider": "Softs"
+            },
+            "12": {
+                "name": "Coca-Cola",
+                "description": "33cl",
+                "price": 200
+            },
+            "13": {
+                "name": "Coca-Cola light",
+                "description": "33cl",
+                "price": 200
+            },
+            "14": {
+                "name": "Orangina",
+                "description": "33cl",
+                "price": 200
+            },
+            "15": {
+                "name": "Perrier",
+                "description": "33cl",
+                "price": 200
+            },
+            "16": {
+                "name": "Jus d'orange",
+                "description": "25cl",
+                "price": 200
+            },
+            "17": {
+                "name": "Jus de pomme",
+                "description": "25cl",
                 "price": 200
             }
         },
@@ -69,6 +128,34 @@
                 "name": "4 fromages",
                 "description": "Tomate, mozzarella, gorgonzola, emmental, parmesan",
                 "price": 1390
+            },
+            "10": {
+                "name": "Végétarienne",
+                "description": "Tomate, mozzarella, légumes",
+                "price": 1390
+            },
+            "11": {
+                "divider": "Viandes"
+            },
+            "12": {
+                "name": "Escalope milanaise",
+                "description": "Escalope panée, salade, tomates",
+                "price": 1750
+            },
+            "13": {
+                "name": "Saltimbocca alla romana",
+                "description": "Escalope de veau, jambon de Parme, sauge, vin blanc",
+                "price": 1750
+            },
+            "14": {
+                "name": "Osso buco",
+                "description": "Jarret de veau, tomates, vin blanc, oignons, carottes",
+                "price": 1750
+            },
+            "15": {
+                "name": "Filetto al pepe verde",
+                "description": "Filet de boeuf, poivre vert, crème",
+                "price": 1750
             }
         },
         "Desserts": {
