@@ -1,5 +1,9 @@
 {
     "type": 1,
+    "happyHour": {
+        "start": "18:00",
+        "end": "20:00"
+    },
     "menu": {
         "Boissons": {
             "1": {
@@ -8,7 +12,8 @@
             "2": {
                 "name": "Bière pression",
                 "description": "25cl",
-                "price": 300
+                "price": 300,
+                "happyHourPrice": 200
             },
             "3": {
                 "name": "Bière pression",
@@ -21,12 +26,14 @@
             "5": {
                 "name": "Vin rouge",
                 "description": "Verre",
-                "price": 300
+                "price": 300,
+                "happyHourPrice": 200
             },
             "6": {
                 "name": "Vin rouge",
                 "description": "Bouteille",
-                "price": 1500
+                "price": 1500,
+                "happyHourPrice": 1000
             },
             "7": {
                 "name": "Vin blanc",
