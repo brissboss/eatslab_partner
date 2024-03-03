@@ -1,8 +1,8 @@
 {
     "type": 1,
     "happyHour": {
-        "start": "18:00",
-        "end": "20:00"
+        "start": "1800",
+        "end": "2000"
     },
     "menu": {
         "Boissons": {
