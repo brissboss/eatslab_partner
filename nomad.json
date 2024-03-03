@@ -24,7 +24,7 @@
             }
         },
         "Plats": {
-            "divider-1": {
+            "0": {
                 "divider": "Pâtes"
             },
             "1": {
@@ -47,25 +47,25 @@
                 "description": "Penne, tomates, ail, piment",
                 "price": 1390
             },
-            "divider-2": {
+            "5": {
                 "divider": "Pizzas"
             },
-            "5": {
+            "6": {
                 "name": "Margherita",
                 "description": "Tomate, mozzarella, basilic",
                 "price": 1390
             },
-            "6": {
+            "7": {
                 "name": "Napolitaine",
                 "description": "Tomate, mozzarella, anchois, câpres, olives",
                 "price": 1390
             },
-            "7": {
+            "8": {
                 "name": "Calzone",
                 "description": "Tomate, mozzarella, jambon, champignons",
                 "price": 1390
             },
-            "8": {
+            "9": {
                 "name": "4 fromages",
                 "description": "Tomate, mozzarella, gorgonzola, emmental, parmesan",
                 "price": 1390
