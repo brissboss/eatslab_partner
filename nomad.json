@@ -4,55 +4,55 @@
         "Boissons": {
             "1": {
                 "name": "Coca-Cola",
-                "price": 2.5
+                "price": 250
             },
             "2": {
                 "name": "Fanta",
-                "price": 2.5
+                "price": 250
             },
             "3": {
                 "name": "Sprite",
-                "price": 2.5
+                "price": 250
             },
             "4": {
                 "name": "Eau",
-                "price": 2
+                "price": 200
             }
         },
         "Plats": {
             "1": {
                 "name": "Pizza Margherita",
-                "price": 8
+                "price": 800
             },
             "2": {
                 "name": "Pizza 4 fromages",
-                "price": 9
+                "price": 900
             },
             "3": {
                 "name": "Pizza 4 saisons",
-                "price": 10
+                "price": 1000
             },
             "4": {
                 "name": "Pizza 4 saisons",
-                "price": 10
+                "price": 1000
             }
         },
         "Desserts": {
             "1": {
                 "name": "Tiramisu",
-                "price": 5
+                "price": 500
             },
             "2": {
                 "name": "Panna Cotta",
-                "price": 5
+                "price": 500
             },
             "3": {
                 "name": "Tarte au citron",
-                "price": 5
+                "price": 500
             },
             "4": {
                 "name": "Tarte aux pommes",
-                "price": 5
+                "price": 500
             }
         }
     }
