@@ -107,7 +107,8 @@
                 "price": 1390
             },
             "5": {
-                "divider": "Pizzas"
+                "divider": "Pizzas",
+                "description": "Toutes nos pizzas sont faites maison et cuites au feu de bois"
             },
             "6": {
                 "name": "Margherita",
