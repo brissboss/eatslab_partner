@@ -24,25 +24,51 @@
             }
         },
         "Plats": {
+            "divider-1": {
+                "name": "Pâtes"
+            },
             "1": {
-                "name": "Pizza Margherita",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 800
+                "name": "Salata Caprèse",
+                "description": "Tomates, mozzarella Buffala, roquette",
+                "price": 1390
             },
             "2": {
-                "name": "Pizza 4 fromages",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 900
+                "name": "Piatto Calabrese",
+                "description": "Charcuteries calabrese et légumes marinés",
+                "price": 1750
             },
             "3": {
-                "name": "Pizza 4 saisons",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 1000
+                "name": "Carpaccio di manzo e Zeppole",
+                "description": "Carpaccio de boeuf",
+                "price": 1400
             },
             "4": {
-                "name": "Pizza 4 saisons",
-                "description": "This is a description of the product. It can be long or short. It's up to you.",
-                "price": 1000
+                "name": "Penne all'arrabbiata",
+                "description": "Penne, tomates, ail, piment",
+                "price": 1390
+            },
+            "divider-2": {
+                "name": "Pizzas"
+            },
+            "5": {
+                "name": "Margherita",
+                "description": "Tomate, mozzarella, basilic",
+                "price": 1390
+            },
+            "6": {
+                "name": "Napolitaine",
+                "description": "Tomate, mozzarella, anchois, câpres, olives",
+                "price": 1390
+            },
+            "7": {
+                "name": "Calzone",
+                "description": "Tomate, mozzarella, jambon, champignons",
+                "price": 1390
+            },
+            "8": {
+                "name": "4 fromages",
+                "description": "Tomate, mozzarella, gorgonzola, emmental, parmesan",
+                "price": 1390
             }
         },
         "Desserts": {
