@@ -12,7 +12,7 @@
             "2": {
                 "type": "CardMultiPrice",
                 "name": "Bière pression",
-                "description": "",
+                "description": "Bière pression avec une description longue pour voir comment ça rend, et si ça passe bien sur plusieurs lignes. On peut aussi ajouter des caractères spéciaux comme des émojis, des accents, etc.",
                 "price": {
                     "25cl": 300,
                     "50cl": 500
@@ -22,7 +22,7 @@
             "3": {
                 "type": "CardMultiPrice",
                 "name": "Bière pression",
-                "description": "",
+                "description": "Bière pression avec une description courte",
                 "price": {
                     "25cl": 300,
                     "50cl": 500
