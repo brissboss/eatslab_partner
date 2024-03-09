@@ -1,7 +1,7 @@
 {
     "type": 1,
     "happyHour": {
-        "start": "1800",
+        "start": "0900",
         "end": "2000"
     },
     "menu": {
