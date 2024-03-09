@@ -10,6 +10,7 @@
                 "divider": "Bières"
             },
             "2": {
+                "type": "CardMultiPrice",
                 "name": "Bière pression",
                 "description": "",
                 "price": {
@@ -19,6 +20,7 @@
                 "happyHourPrice": 200
             },
             "3": {
+                "type": "CardMultiPrice",
                 "name": "Bière pression",
                 "description": "",
                 "price": {
@@ -30,6 +32,7 @@
                 "divider": "Vins"
             },
             "5": {
+                "type": "CardMultiPrice",
                 "name": "Vin rouge",
                 "description": "",
                 "price": {
@@ -39,6 +42,7 @@
                 "happyHourPrice": 200
             },
             "6": {
+                "type": "CardSimple",
                 "name": "Vin rouge",
                 "description": "",
                 "price": {
@@ -47,6 +51,7 @@
                 "happyHourPrice": 1000
             },
             "7": {
+                "type": "CardSimple",
                 "name": "Vin blanc",
                 "description": "Verre",
                 "price": {
@@ -54,6 +59,7 @@
                 }
             },
             "8": {
+                "type": "CardSimple",
                 "name": "Vin blanc",
                 "description": "Bouteille",
                 "price": {
@@ -61,6 +67,7 @@
                 }
             },
             "9": {
+                "type": "CardSimple",
                 "name": "Vin rosé",
                 "description": "Verre",
                 "price": {
@@ -68,6 +75,7 @@
                 }
             },
             "10": {
+                "type": "CardSimple",
                 "name": "Vin rosé",
                 "description": "Bouteille",
                 "price": {
@@ -78,6 +86,7 @@
                 "divider": "Softs"
             },
             "12": {
+                "type": "CardSimple",
                 "name": "Coca-Cola",
                 "description": "33cl",
                 "price": {
@@ -85,6 +94,7 @@
                 }
             },
             "13": {
+                "type": "CardSimple",
                 "name": "Coca-Cola light",
                 "description": "33cl",
                 "price": {
@@ -92,6 +102,7 @@
                 }
             },
             "14": {
+                "type": "CardSimple",
                 "name": "Orangina",
                 "description": "33cl",
                 "price": {
@@ -99,6 +110,7 @@
                 }
             },
             "15": {
+                "type": "CardSimple",
                 "name": "Perrier",
                 "description": "33cl",
                 "price": {
@@ -106,6 +118,7 @@
                 }
             },
             "16": {
+                "type": "CardSimple",
                 "name": "Jus d'orange",
                 "description": "25cl",
                 "price": {
@@ -113,6 +126,7 @@
                 }
             },
             "17": {
+                "type": "CardSimple",
                 "name": "Jus de pomme",
                 "description": "25cl",
                 "price": {
@@ -125,6 +139,7 @@
                 "divider": "Pâtes"
             },
             "1": {
+                "type": "CardSimple",
                 "name": "Salata Caprèse",
                 "description": "Tomates, mozzarella Buffala, roquette",
                 "price": {
@@ -132,6 +147,7 @@
                 }
             },
             "2": {
+                "type": "CardSimple",
                 "name": "Piatto Calabrese",
                 "description": "Charcuteries calabrese et légumes marinés",
                 "price": {
@@ -139,6 +155,7 @@
                 }
             },
             "3": {
+                "type": "CardSimple",
                 "name": "Carpaccio di manzo e Zeppole",
                 "description": "Carpaccio de boeuf",
                 "price": {
@@ -146,6 +163,7 @@
                 }
             },
             "4": {
+                "type": "CardSimple",
                 "name": "Penne all'arrabbiata",
                 "description": "Penne, tomates, ail, piment",
                 "price": {
@@ -157,6 +175,7 @@
                 "description": "Toutes nos pizzas sont faites maison et cuites au feu de bois"
             },
             "6": {
+                "type": "CardSimple",
                 "name": "Margherita",
                 "description": "Tomate, mozzarella, basilic",
                 "price": {
@@ -164,6 +183,7 @@
                 }
             },
             "7": {
+                "type": "CardSimple",
                 "name": "Napolitaine",
                 "description": "Tomate, mozzarella, anchois, câpres, olives",
                 "price": {
@@ -171,6 +191,7 @@
                 }
             },
             "8": {
+                "type": "CardSimple",
                 "name": "Calzone",
                 "description": "Tomate, mozzarella, jambon, champignons",
                 "price": {
@@ -178,6 +199,7 @@
                 }
             },
             "9": {
+                "type": "CardSimple",
                 "name": "4 fromages",
                 "description": "Tomate, mozzarella, gorgonzola, emmental, parmesan",
                 "price": {
@@ -185,6 +207,7 @@
                 }
             },
             "10": {
+                "type": "CardSimple",
                 "name": "Végétarienne",
                 "description": "Tomate, mozzarella, légumes",
                 "price": {
@@ -195,6 +218,7 @@
                 "divider": "Viandes"
             },
             "12": {
+                "type": "CardSimple",
                 "name": "Escalope milanaise",
                 "description": "Escalope panée, salade, tomates",
                 "price": {
@@ -202,6 +226,7 @@
                 }
             },
             "13": {
+                "type": "CardSimple",
                 "name": "Saltimbocca alla romana",
                 "description": "Escalope de veau, jambon de Parme, sauge, vin blanc",
                 "price": {
@@ -209,6 +234,7 @@
                 }
             },
             "14": {
+                "type": "CardSimple",
                 "name": "Osso buco",
                 "description": "Jarret de veau, tomates, vin blanc, oignons, carottes",
                 "price": {
@@ -216,6 +242,7 @@
                 }
             },
             "15": {
+                "type": "CardSimple",
                 "name": "Filetto al pepe verde",
                 "description": "Filet de boeuf, poivre vert, crème",
                 "price": {
@@ -225,6 +252,7 @@
         },
         "Desserts": {
             "1": {
+                "type": "CardSimple",
                 "name": "Tiramisu",
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
@@ -232,6 +260,7 @@
                 }
             },
             "2": {
+                "type": "CardSimple",
                 "name": "Panna Cotta",
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
@@ -239,6 +268,7 @@
                 }
             },
             "3": {
+                "type": "CardSimple",
                 "name": "Tarte au citron",
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
@@ -246,6 +276,7 @@
                 }
             },
             "4": {
+                "type": "CardSimple",
                 "name": "Tarte aux pommes",
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
