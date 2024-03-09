@@ -42,11 +42,14 @@
                 "happyHourPrice": 200
             },
             "6": {
-                "type": "CardSimple",
+                "type": "CardMultiPrice",
                 "name": "Vin rouge",
                 "description": "",
                 "price": {
-                    "price": 500
+                    "verre": 500,
+                    "carafe 50cl": 800,
+                    "bouteille 75cl": 1000,
+                    "pichet 1L": 1500
                 },
                 "happyHourPrice": 1000
             },
