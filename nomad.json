@@ -12,12 +12,15 @@
             "2": {
                 "type": "CardMultiPrice",
                 "name": "Bière pression",
-                "description": "Bière pression avec une description longue pour voir comment ça rend, et si ça passe bien sur plusieurs lignes. On peut aussi ajouter des caractères spéciaux comme des émojis, des accents, etc.",
+                "description": "",
                 "price": {
                     "25cl": 300,
                     "50cl": 500
                 },
-                "happyHourPrice": 200
+                "happyHourPrice": {
+                    "25cl": 200,
+                    "50cl": 400
+                }
             },
             "3": {
                 "type": "CardMultiPrice",
@@ -26,6 +29,10 @@
                 "price": {
                     "25cl": 300,
                     "50cl": 500
+                },
+                "happyHourPrice": {
+                    "25cl": 200,
+                    "50cl": 400
                 }
             },
             "4": {
@@ -38,8 +45,7 @@
                 "price": {
                     "verre": 500,
                     "bouteille 75cl": 1000
-                },
-                "happyHourPrice": 200
+                }
             },
             "6": {
                 "type": "CardMultiPrice",
@@ -50,8 +56,7 @@
                     "carafe 50cl": 800,
                     "bouteille 75cl": 1000,
                     "pichet 1L": 1500
-                },
-                "happyHourPrice": 1000
+                }
             },
             "7": {
                 "type": "CardSimple",
