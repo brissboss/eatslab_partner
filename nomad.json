@@ -339,14 +339,430 @@
         },
         "Nos plats": {
             "0": {
-                "divider": "Pâtes"
+                "divider": "Anti Pasti"
             },
             "1": {
                 "type": "CardSimple",
                 "name": "Salata Caprèse",
                 "description": "Tomates, mozzarella Buffala, roquette",
                 "price": {
+                    "price": 1390
+                },
+                "happyHourPrice": {}
+            },
+            "2": {
+                "type": "CardSimple",
+                "name": "Piatto Calabrese",
+                "description": "Charcuteries calabrese et légumes marinés",
+                "price": {
+                    "price": 1750
+                },
+                "happyHourPrice": {}
+            },
+            "3": {
+                "type": "CardSimple",
+                "name": "Carpaccio di manzo e Zeppole",
+                "description": "Carpaccio de boeuf",
+                "price": {
+                    "price": 1400
+                },
+                "happyHourPrice": {}
+            },
+            "4": {
+                "type": "CardSimple",
+                "name": "Carpaccio di Salmone & Capesante e Zeppole",
+                "description": "Carpaccio de saumon et St Jacques",
+                "price": {
+                    "price": 1800
+                },
+                "happyHourPrice": {}
+            },
+            "5": {
+                "divider": "Carne",
+                "description": "Accompagnement au choix : frites OU pâtes OU légumes (*supplément accompagnement : 2,50€)"
+            },
+            "6": {
+                "type": "CardSimple",
+                "name": "Filetto di Manzo",
+                "description": "Filet de boeuf (sauce poivre ou gorgonzola)",
+                "price": {
+                    "price": 2400
+                },
+                "happyHourPrice": {}
+            },
+            "7": {
+                "type": "CardSimple",
+                "name": "Saltimbocca",
+                "description": "Escalope de veau, jambon de parme et sauge",
+                "price": {
+                    "price": 2100
+                },
+                "happyHourPrice": {}
+            },
+            "8": {
+                "type": "CardSimple",
+                "name": "Tagliata di Manzo",
+                "description": "Tranches de filet de boeuf déglacé au vinaigre balsamique",
+                "price": {
+                    "price": 2250
+                },
+                "happyHourPrice": {}
+            },
+            "9": {
+                "divider": "Pasta"
+            },
+            "10": {
+                "type": "CardSimple",
+                "name": "Linguine Della ionica",
+                "description": "Linguine aux fruits de mer (St jacques, moules, encornets, gambas)",
+                "price": {
+                    "price": 2050
+                },
+                "happyHourPrice": {}
+            },
+            "11": {
+                "type": "CardSimple",
+                "name": "Linguine alla Crema, Zucchini e Pancetta",
+                "description": "Linguine a la crème, courgettes et pancetta",
+                "price": {
+                    "price": 1390
+                },
+                "happyHourPrice": {}
+            },
+            "12": {
+                "type": "CardSimple",
+                "name": "Tortiglioni Vitello",
+                "description": "Tortiglioni sauce tomates cerise, émincé de veau, ail",
+                "price": {
+                    "price": 1450
+                },
+                "happyHourPrice": {}
+            },
+            "13": {
+                "type": "CardSimple",
+                "name": "Carbonara del Capo",
+                "description": "Linguine, guanciale, oeuf, parmesan",
+                "price": {
+                    "price": 1390
+                },
+                "happyHourPrice": {}
+            },
+            "14": {
+                "divider": "Pizza",
+                "description": "supplément pizza : 1,50€"
+            },
+            "15": {
+                "type": "CardSimple",
+                "name": "Margherita",
+                "description": "Sauce tomate, mozzarella",
+                "price": {
+                    "price": 1000
+                },
+                "happyHourPrice": {}
+            },
+            "16": {
+                "type": "CardSimple",
+                "name": "Prosciutto",
+                "description": "Sauce tomate, mozzarella, jambon blanc",
+                "price": {
+                    "price": 1150
+                },
+                "happyHourPrice": {}
+            },
+            "17": {
+                "type": "CardSimple",
+                "name": "Prosciutto e Funghi",
+                "description": "Sauce tomate, mozzarella, jambon blanc, champignons",
+                "price": {
+                    "price": 1250
+                },
+                "happyHourPrice": {}
+            },
+            "18": {
+                "type": "CardSimple",
+                "name": "Quattro Formaggi",
+                "description": "Sauce tomate, mozzarella, chèvre, gorgonzola au parmesan",
+                "price": {
+                    "price": 1390
+                },
+                "happyHourPrice": {}
+            },
+            "19": {
+                "type": "CardSimple",
+                "name": "Napoletana",
+                "description": "Sauce tomate, mozzarella, anchois, câpres, olives",
+                "price": {
+                    "price": 1390
+                },
+                "happyHourPrice": {}
+            },
+            "20": {
+                "type": "CardSimple",
+                "name": "Calabrese",
+                "description": "Sauce tomate, mozzarella, poivrons marinés, salami piquant, piment",
+                "price": {
+                    "price": 1550
+                },
+                "happyHourPrice": {}
+            },
+            "21": {
+                "type": "CardSimple",
+                "name": "Contadina",
+                "description": "Sauce tomate, mozzarella, mélange de légumes frais (courgettes, aubergines, poivrons)",
+                "price": {
+                    "price": 1290
+                },
+                "happyHourPrice": {}
+            },
+            "22": {
+                "type": "CardSimple",
+                "name": "Ionica",
+                "description": "Sauce tomate, mozzarella, St jacques, moules, encornets, gambas, ail persillé",
+                "price": {
+                    "price": 1800
+                },
+                "happyHourPrice": {}
+            },
+            "23": {
+                "type": "CardSimple",
+                "name": "Parma",
+                "description": "Tomates fraiches, mozzarella, jambon de parme, artichauts marinés, roquette",
+                "price": {
+                    "price": 1590
+                },
+                "happyHourPrice": {}
+            },
+            "24": {
+                "type": "CardSimple",
+                "name": "Vulcano Calzone",
+                "description": "Sauce tomate, mozzarella, jambon blanc, champignons, oeuf",
+                "price": {
+                    "price": 1400
+                },
+                "happyHourPrice": {}
+            },
+            "25": {
+                "divider": "Dolce"
+            },
+            "26": {
+                "type": "CardSimple",
+                "name": "Tiramisu",
+                "description": "",
+                "price": {
+                    "price": 700
+                },
+                "happyHourPrice": {}
+            },
+            "27": {
+                "type": "CardSimple",
+                "name": "Cannoli praliné",
+                "description": "",
+                "price": {
+                    "price": 750
+                },
+                "happyHourPrice": {}
+            },
+            "28": {
+                "type": "CardSimple",
+                "name": "Panna Cotta",
+                "description": "",
+                "price": {
+                    "price": 600
+                },
+                "happyHourPrice": {}
+            },
+            "29": {
+                "type": "CardSimple",
+                "name": "Coupe Amarena",
+                "description": "",
+                "price": {
+                    "price": 730
+                },
+                "happyHourPrice": {}
+            },
+            "30": {
+                "type": "CardSimple",
+                "name": "Café liegeois",
+                "description": "",
+                "price": {
+                    "price": 650
+                },
+                "happyHourPrice": {}
+            },
+            "31": {
+                "type": "CardSimple",
+                "name": "Café 3 gourmandises",
+                "description": "",
+                "price": {
+                    "price": 790
+                },
+                "happyHourPrice": {}
+            },
+            "32": {
+                "type": "CardSimple",
+                "name": "Déca/ Thé/ Infusion 3 gourmandises",
+                "description": "",
+                "price": {
+                    "price": 850
+                },
+                "happyHourPrice": {}
+            },
+            "33": {
+                "type": "CardSimple",
+                "name": "Gelati",
+                "description": "vanille, chocolat, café, citron, framboise, passion, stracciatella",
+                "price": {
+                    "price": 200
+                },
+                "happyHourPrice": {}
+            },
+            "34": {
+                "type": "CardSimple",
+                "name": "Supplément chantilly",
+                "description": "",
+                "price": {
+                    "price": 50
+                },
+                "happyHourPrice": {}
+            },
+            "35": {
+                "divider": "Caffé"
+            },
+            "36": {
+                "type": "CardSimple",
+                "name": "Ristretto/ Espresso/ Caffé",
+                "description": "",
+                "price": {
+                    "price": 200
+                },
+                "happyHourPrice": {}
+            },
+            "37": {
+                "type": "CardSimple",
+                "name": "Caffé rallongé",
+                "description": "",
+                "price": {
+                    "price": 230
+                },
+                "happyHourPrice": {}
+            },
+            "38": {
+                "type": "CardSimple",
+                "name": "Décafeinato Espresso/ Caffé",
+                "description": "",
+                "price": {
+                    "price": 260
+                },
+                "happyHourPrice": {}
+            },
+            "39": {
+                "type": "CardSimple",
+                "name": "Décafeinato rallongé",
+                "description": "",
+                "price": {
+                    "price": 300
+                },
+                "happyHourPrice": {}
+            },
+            "40": {
+                "type": "CardSimple",
+                "name": "Cappuccino",
+                "description": "",
+                "price": {
+                    "price": 290
+                },
+                "happyHourPrice": {}
+            },
+            "41": {
+                "type": "CardSimple",
+                "name": "Latte Macchiatto Caramel",
+                "description": "",
+                "price": {
+                    "price": 360
+                },
+                "happyHourPrice": {}
+            },
+            "42": {
+                "type": "CardSimple",
+                "name": "Thé / Infusion",
+                "description": "",
+                "price": {
+                    "price": 280
+                },
+                "happyHourPrice": {}
+            },
+            "43": {
+                "type": "CardSimple",
+                "name": "Caffé del Nonno (irish grappa)",
+                "description": "",
+                "price": {
+                    "price": 800
+                },
+                "happyHourPrice": {}
+            },
+            "44": {
+                "type": "CardSimple",
+                "name": "Supplément lait / crème",
+                "description": "",
+                "price": {
+                    "price": 20
+                },
+                "happyHourPrice": {}
+            },
+            "45": {
+                "divider": "Digestivi"
+            },
+            "46": {
+                "type": "CardSimple",
+                "name": "Grappa 4cl",
+                "description": "",
+                "price": {
+                    "price": 600
+                },
+                "happyHourPrice": {}
+            },
+            "47": {
+                "type": "CardSimple",
+                "name": "Grappa Invecchiata 4cl",
+                "description": "",
+                "price": {
+                    "price": 700
+                },
+                "happyHourPrice": {}
+            },
+            "48": {
+                "type": "CardSimple",
+                "name": "Sambuca 4cl",
+                "description": "",
+                "price": {
+                    "price": 600
+                },
+                "happyHourPrice": {}
+            },
+            "49": {
+                "type": "CardSimple",
+                "name": "Limoncello 4cl",
+                "description": "",
+                "price": {
                     "price": 500
+                },
+                "happyHourPrice": {}
+            },
+            "50": {
+                "type": "CardSimple",
+                "name": "Amaretto 4cl",
+                "description": "",
+                "price": {
+                    "price": 500
+                },
+                "happyHourPrice": {}
+            },
+            "51": {
+                "type": "CardSimple",
+                "name": "Amaro Del Capo 4cl",
+                "description": "",
+                "price": {
+                    "price": 600
                 },
                 "happyHourPrice": {}
             }
