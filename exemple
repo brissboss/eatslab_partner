@@ -1,0 +1,26 @@
+"2": {
+    "type": "CardMultiPrice",
+    "name": "Bière pression",
+    "description": "",
+    "price": {
+        "25cl": 300,
+        "50cl": 500
+    },
+    "happyHourPrice": {
+        "25cl": 200,
+        "50cl": 400
+    }
+}
+
+"0": {
+    "divider": "Pâtes"
+},
+"1": {
+    "type": "CardSimple",
+    "name": "Salata Caprèse",
+    "description": "Tomates, mozzarella Buffala, roquette",
+    "price": {
+        "price": 500
+    },
+    "happyHourPrice": {}
+}
