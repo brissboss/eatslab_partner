@@ -45,7 +45,8 @@
                 "price": {
                     "verre": 500,
                     "bouteille 75cl": 1000
-                }
+                },
+                "happyHourPrice": {}
             },
             "6": {
                 "type": "CardMultiPrice",
@@ -56,7 +57,8 @@
                     "carafe 50cl": 800,
                     "bouteille 75cl": 1000,
                     "pichet 1L": 1500
-                }
+                },
+                "happyHourPrice": {}
             },
             "7": {
                 "type": "CardSimple",
@@ -64,6 +66,9 @@
                 "description": "Verre",
                 "price": {
                     "price": 500
+                },
+                "happyHourPrice": {
+                    "price": 400
                 }
             },
             "8": {
@@ -72,7 +77,8 @@
                 "description": "Bouteille",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "9": {
                 "type": "CardSimple",
@@ -80,7 +86,8 @@
                 "description": "Verre",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "10": {
                 "type": "CardSimple",
@@ -88,7 +95,8 @@
                 "description": "Bouteille",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "11": {
                 "divider": "Softs"
@@ -99,7 +107,8 @@
                 "description": "33cl",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "13": {
                 "type": "CardSimple",
@@ -107,7 +116,8 @@
                 "description": "33cl",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "14": {
                 "type": "CardSimple",
@@ -115,7 +125,8 @@
                 "description": "33cl",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "15": {
                 "type": "CardSimple",
@@ -123,7 +134,8 @@
                 "description": "33cl",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "16": {
                 "type": "CardSimple",
@@ -131,7 +143,8 @@
                 "description": "25cl",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "17": {
                 "type": "CardSimple",
@@ -139,7 +152,8 @@
                 "description": "25cl",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             }
         },
         "Plats": {
@@ -152,7 +166,8 @@
                 "description": "Tomates, mozzarella Buffala, roquette",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "2": {
                 "type": "CardSimple",
@@ -160,7 +175,8 @@
                 "description": "Charcuteries calabrese et légumes marinés",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "3": {
                 "type": "CardSimple",
@@ -168,7 +184,8 @@
                 "description": "Carpaccio de boeuf",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "4": {
                 "type": "CardSimple",
@@ -176,7 +193,8 @@
                 "description": "Penne, tomates, ail, piment",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "5": {
                 "divider": "Pizzas",
@@ -188,7 +206,8 @@
                 "description": "Tomate, mozzarella, basilic",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "7": {
                 "type": "CardSimple",
@@ -196,7 +215,8 @@
                 "description": "Tomate, mozzarella, anchois, câpres, olives",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "8": {
                 "type": "CardSimple",
@@ -204,7 +224,8 @@
                 "description": "Tomate, mozzarella, jambon, champignons",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "9": {
                 "type": "CardSimple",
@@ -212,7 +233,8 @@
                 "description": "Tomate, mozzarella, gorgonzola, emmental, parmesan",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "10": {
                 "type": "CardSimple",
@@ -220,7 +242,8 @@
                 "description": "Tomate, mozzarella, légumes",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "11": {
                 "divider": "Viandes"
@@ -231,7 +254,8 @@
                 "description": "Escalope panée, salade, tomates",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "13": {
                 "type": "CardSimple",
@@ -239,7 +263,8 @@
                 "description": "Escalope de veau, jambon de Parme, sauge, vin blanc",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "14": {
                 "type": "CardSimple",
@@ -247,7 +272,8 @@
                 "description": "Jarret de veau, tomates, vin blanc, oignons, carottes",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "15": {
                 "type": "CardSimple",
@@ -255,7 +281,8 @@
                 "description": "Filet de boeuf, poivre vert, crème",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             }
         },
         "Desserts": {
@@ -265,7 +292,8 @@
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "2": {
                 "type": "CardSimple",
@@ -273,7 +301,8 @@
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "3": {
                 "type": "CardSimple",
@@ -281,7 +310,8 @@
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             },
             "4": {
                 "type": "CardSimple",
@@ -289,7 +319,8 @@
                 "description": "This is a description of the product. It can be long or short. It's up to you.",
                 "price": {
                     "price": 500
-                }
+                },
+                "happyHourPrice": {}
             }
         }
     }
